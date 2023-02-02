@@ -1,0 +1,58 @@
+/* selector 
+1.element*/
+p{
+    background-color: aqua;
+}
+/* selector 
+1.id*/
+#p3{
+    background-color: blueviolet;
+}
+/* selector 
+1.class */
+.colour-change{
+background-color: chartreuse;
+}
+#h{
+    font-size: 50px;
+}
+.underline-h{
+   text-decoration:  underline;
+}
+/*#anu{
+    background-color: rgba(0, 149, 255, 0.414);
+}*/
+#anu{
+    background-image: url('img.jpg');
+    background-repeat: repeat-y;
+    background-position:center;
+}
+
+body{
+    background-color: rgba(235, 138, 224, 0.377);
+}
+#border{
+/*border-style: dotted;*/
+border-style: double;
+}
+a{
+text-decoration: none;
+}
+a:link{
+ color: blue;
+}
+a:visited{
+color: blueviolet;
+}
+a:hover{
+color: red;
+}
+a:active{
+color: chartreuse;/*press kre rhne pr green , mouse uper le jane pr red, aik bar search result dekh lene k baad blueviolet, and ink blue*/
+}
+#anujgaurav{
+
+}
+#anujgauarav:h1{
+qhgcolor: red;
+}
